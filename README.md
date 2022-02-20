@@ -1,4 +1,4 @@
-# Brest-Cancer-Prediction
+# Breast-Cancer-Prediction
 This is a famous dataset on Kaggle for the beginners.
 I built classfication models using decision tree, KNN, logistic regression, and SVM to predict the diagnose result based on ten real-valued features. I used accuracy as my performance matrix.
 
